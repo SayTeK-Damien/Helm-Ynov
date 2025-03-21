@@ -1,0 +1,6 @@
+ingress:
+  hosts:
+    - host: mesbonslegumes.fr
+      paths:
+        - path: /
+          pathType: ImplementationSpecific

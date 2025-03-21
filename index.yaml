@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  boutique:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-03-21T11:20:18.917826588+01:00"
+    description: Un chart Helm pour déployer une boutique e-commerce
+    digest: 5dfde7c3a10e5cfc2dbc9c607768d67079989eb16e2d74dd2e780c2a5ce517b5
+    name: boutique
+    type: application
+    urls:
+    - https://SayTeK-Damien.github.io/Helm-Ynov/boutique-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-21T11:20:18.916924477+01:00"
